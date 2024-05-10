@@ -46,7 +46,7 @@ public class Memoria {
             return String.format("%s, %d vezes!",quantidade.get(maior), maior);
         }
         else{
-            return "Palavras usadas igualmente :)";
+            return "Palavras usadas igualmente";
         }
     }
 }
